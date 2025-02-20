@@ -1,43 +1,6 @@
-* {
-  box-sizing: border-box;
-}
+# Cat Photo Gallery using CSS
+## Language: HTML5, CSS3
+![Screen Shot 2025-02-20 at 2 35 53 PM](https://github.com/user-attachments/assets/e10e010a-612a-42ed-b9b0-453727d43468)
 
-body {
-  margin: 0;
-  font-family: sans-serif;
-  background: #f5f6f7;
-}
 
-.header {
-  text-align: center;
-  text-transform: uppercase;
-  padding: 32px;
-  background-color: #0a0a23;
-  color: #fff;
-  border-bottom: 4px solid #fdb347;
-}
-
-.gallery {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 16px;
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 20px 10px;
-}
-
-.gallery img {
-  width: 100%;
-  max-width: 350px;
-  height: 300px;
-  object-fit: cover;
-  border-radius: 10px;
-}
-
-.gallery::after {
-  content: "";
-  width: 350px;
-}
+![Screen Shot 2025-02-20 at 2 36 06 PM](https://github.com/user-attachments/assets/9465c2f9-4ba4-48a4-b18b-5820ce0c0666)
