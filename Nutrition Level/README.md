@@ -1,5 +1,5 @@
 # 🥗 🥣 Nutrition Label Project
-Nutrition Label Project 🥣
+
 This project is a simple, responsive nutrition label built using HTML & CSS. It mimics the design of real-world nutrition facts labels, focusing on typography, layout, and styling to achieve a visually accurate and readable result.
 
 ## 📌 Overview
