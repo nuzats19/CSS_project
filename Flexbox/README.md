@@ -1,6 +1,10 @@
-# Cat Photo Gallery using Flexbox
-## Language: HTML5, CSS3
-🖼️ Website Preview
+# 📸 CSS Flexbox Photo Gallery
+This project showcases a responsive photo gallery using CSS Flexbox. The layout is designed to be visually appealing, well-structured, and adaptable across different screen sizes.
+## 🎨 Technologies Used
+HTML5 – Structured and semantic markup
+CSS3 (Flexbox) – Responsive layout & styling
+
+### 🖼️ Website Preview
 Here’s how the website looks:
 ![Screen Shot 2025-02-20 at 2 35 53 PM](https://github.com/user-attachments/assets/e10e010a-612a-42ed-b9b0-453727d43468)
 
