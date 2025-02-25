@@ -1,5 +1,7 @@
 # Cat Photo Gallery using Flexbox
 ## Language: HTML5, CSS3
+🖼️ Website Preview
+Here’s how the website looks:
 ![Screen Shot 2025-02-20 at 2 35 53 PM](https://github.com/user-attachments/assets/e10e010a-612a-42ed-b9b0-453727d43468)
 
 
