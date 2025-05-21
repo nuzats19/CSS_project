@@ -3,5 +3,5 @@ A visually accurate and fully responsive piano layout built using only HTML and 
 Media queries ensure seamless adaptation across desktops, tablets, and mobile devices, maintaining visual integrity on any screen size.
 
 ## 📁 Technologies Used
-HTML5
-CSS3 (Box model, pseudo-elements, media queries)
+#### HTML5
+#### CSS3 (Box model, pseudo-elements, media queries)
