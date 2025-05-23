@@ -2,21 +2,21 @@
 A visually accurate and fully responsive piano layout built using only HTML and CSS. This project demonstrates advanced CSS styling techniques and modern responsive design practices without relying on JavaScript or external frameworks.
 Media queries ensure seamless adaptation across desktops, tablets, and mobile devices, maintaining visual integrity on any screen size.
 
-## 🚀 Features
+## Features
 
-- 🎯 **Pure CSS Key Styling**  
+- **Pure CSS Key Styling**  
   Black and white keys are styled using CSS, with pseudo-elements (`::after`) for overlaying black keys.
 
-- 📱 **Fully Responsive Layout**  
+- **Fully Responsive Layout**  
   Built with media queries to adapt seamlessly across desktops, tablets, and mobile screens.
 
-- 🎨 **Modern UI Design**  
+- **Modern UI Design**  
   Clean layout with rounded corners, realistic key arrangement, and dark theme for elegant aesthetics.
 
-- 🔁 **Reusable Class Structure**  
+- **Reusable Class Structure**  
   Clear and modular class naming (`.key`, `.black--key`) enhances reusability and scalability.
 
-- 🔧 **CSS Best Practices**  
+- **CSS Best Practices**  
   Utilizes `box-sizing: border-box`, float-based layout logic, and responsive units to maintain visual consistency.
 
 - 🖼️ **Brand Integration**  
