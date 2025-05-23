@@ -6,4 +6,6 @@ Media queries ensure seamless adaptation across desktops, tablets, and mobile de
 #### HTML5
 #### CSS3 (Box model, pseudo-elements, media queries)
 
+### 🖼️ Website Preview
+Here’s how the website looks:
 ![Screen Shot 2025-05-22 at 10 19 02 PM](https://github.com/user-attachments/assets/a87245c5-c0cf-4308-a966-6913ee2033cd)
