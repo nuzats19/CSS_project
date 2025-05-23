@@ -19,7 +19,7 @@ Media queries ensure seamless adaptation across desktops, tablets, and mobile de
 - **CSS Best Practices**  
   Utilizes `box-sizing: border-box`, float-based layout logic, and responsive units to maintain visual consistency.
 
-- 🖼️ **Brand Integration**  
+- **Brand Integration**  
   Includes a branded logo (freeCodeCamp) positioned using absolute positioning within the header area.
 
 ## 📁 Technologies Used
